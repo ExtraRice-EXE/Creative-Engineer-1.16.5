@@ -1,0 +1,14 @@
+[15:01:36.578][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[15:01:38.812][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'botania' at version '1.16.5-416'
+'crafttweaker' at version '7.1.0.313'
+'iceandfire' at version '2.1.6-1.16.4'
+'immersiveengineering' at version '1.16.5-5.0.0-135'
+'jeitweaker' at version '1.0.1.27'
+'tconstruct' at version '3.0.4.171'
+'thermal_expansion' at version '1.2.0'
+[15:01:39.577][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[15:01:57.664][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[15:01:58.284][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[15:02:21.722][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[15:02:21.793][DONE][CLIENT][INFO] Finished loading Scripts!

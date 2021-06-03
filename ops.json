@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "04ca299d-4ac3-4b48-9829-7c6470e816d9",
+    "name": "AutoSwiitch",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b92312fd-21e0-4800-b83b-f29ae7a36bbf",
+    "name": "HeavenlyEye",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
